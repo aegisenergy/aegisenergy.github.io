@@ -226,7 +226,7 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0)), url('../img/header-bg.jpg');
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0)), url('../img/header-bg.jpg');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
